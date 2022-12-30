@@ -4,12 +4,12 @@
 
 ### Quick start
 
-Inside the root of your React project directory, install `react-fetch`
+Inside the root of your React project directory, install `@fetch-api/react`
 
 ```sh
-npm i react-fetch
+npm i @fetch-api/react
 
 or
 
-yarn add react-fetch
+yarn add @fetch-api/react
 ```
