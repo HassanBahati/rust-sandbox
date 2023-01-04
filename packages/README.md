@@ -1,6 +1,6 @@
-<b><h1 align="center">react-fetch</h1></b>
+<b><h1 align="center">Fetch with Rust, Use in JavaScript</h1></b>
 
-<h1 align="center"></h1>
+<p align="center">Built for Speed:spark:</p>
 
 ### Quick start
 
