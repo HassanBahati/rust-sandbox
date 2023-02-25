@@ -20,7 +20,9 @@
 
 // mod loops;
 
-mod functions;
+// mod functions;
+
+mod pointers;
 
 fn main() {
     // run the print function 
@@ -33,5 +35,6 @@ fn main() {
     // vectors::run();
     // conditionals::run();
     // loops::run();
-    functions::run();
+    // functions::run();
+    pointers::run();
 }
