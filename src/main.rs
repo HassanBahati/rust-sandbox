@@ -1,3 +1,7 @@
+// call the print function in print.rs 
+mod print;
+
 fn main() {
-    println!("Hello, world!");
+    // run the print function 
+    print::run();
 }
