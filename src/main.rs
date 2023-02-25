@@ -12,7 +12,9 @@
 
 // mod tuples;
 
-mod arrays;
+// mod arrays;
+
+mod vectors;
 
 fn main() {
     // run the print function 
@@ -21,5 +23,6 @@ fn main() {
     // data_types::run();
     // strings::run();
     // tuples::run();
-    arrays::run();
+    // arrays::run();
+    vectors::run();
 }
