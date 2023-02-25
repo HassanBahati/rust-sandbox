@@ -22,7 +22,9 @@
 
 // mod functions;
 
-mod pointers;
+// mod pointers;
+
+mod structs;
 
 fn main() {
     // run the print function 
@@ -36,5 +38,6 @@ fn main() {
     // conditionals::run();
     // loops::run();
     // functions::run();
-    pointers::run();
+    // pointers::run();
+    structs::run();
 }
