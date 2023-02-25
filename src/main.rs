@@ -2,7 +2,10 @@
 // mod print;
 
 // call varaibles function 
-mod variables;
+// mod variables;
+
+// call the data_types file 
+mod data_types;
 
 
 
@@ -11,5 +14,8 @@ fn main() {
     // print::run();
 
     // run the variable function 
-    variables::run();
+    // variables::run();
+
+    //run the data_types file
+    data_types::run();
 }
