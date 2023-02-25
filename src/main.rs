@@ -10,7 +10,9 @@
 // call the strings file 
 // mod strings;
 
-mod tuples;
+// mod tuples;
+
+mod arrays;
 
 fn main() {
     // run the print function 
@@ -18,5 +20,6 @@ fn main() {
     // variables::run();
     // data_types::run();
     // strings::run();
-    tuples::run();
+    // tuples::run();
+    arrays::run();
 }
