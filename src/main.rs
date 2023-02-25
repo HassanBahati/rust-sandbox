@@ -5,17 +5,15 @@
 // mod variables;
 
 // call the data_types file 
-mod data_types;
+// mod data_types;
 
-
+// call the strings file 
+mod strings;
 
 fn main() {
     // run the print function 
     // print::run();
-
-    // run the variable function 
     // variables::run();
-
-    //run the data_types file
-    data_types::run();
+    // data_types::run();
+    strings::run();
 }
