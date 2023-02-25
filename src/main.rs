@@ -1,7 +1,15 @@
 // call the print function in print.rs 
-mod print;
+// mod print;
+
+// call varaibles function 
+mod variables;
+
+
 
 fn main() {
     // run the print function 
-    print::run();
+    // print::run();
+
+    // run the variable function 
+    variables::run();
 }
