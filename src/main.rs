@@ -18,7 +18,9 @@
 
 // mod conditionals;
 
-mod loops;
+// mod loops;
+
+mod functions;
 
 fn main() {
     // run the print function 
@@ -30,5 +32,6 @@ fn main() {
     // arrays::run();
     // vectors::run();
     // conditionals::run();
-    loops::run();
+    // loops::run();
+    functions::run();
 }
