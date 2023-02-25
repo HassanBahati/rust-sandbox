@@ -26,7 +26,9 @@
 
 // mod structs;
 
-mod enums;
+// mod enums;
+
+mod cli;
 
 fn main() {
     // run the print function 
@@ -42,5 +44,6 @@ fn main() {
     // functions::run();
     // pointers::run();
     // structs::run();
-    enums::run();
+    // enums::run();
+    cli::run();
 }
