@@ -8,12 +8,15 @@
 // mod data_types;
 
 // call the strings file 
-mod strings;
+// mod strings;
+
+mod tuples;
 
 fn main() {
     // run the print function 
     // print::run();
     // variables::run();
     // data_types::run();
-    strings::run();
+    // strings::run();
+    tuples::run();
 }
